@@ -1,0 +1,102 @@
+
+
+{
+  "question": [
+     {
+      "question_text": "vorne Hayastani mayraqaxaq@",
+      "ansver_options": [
+        {
+          "ansvertext": "Gyumri",
+          "isCorect": false
+        },
+        {
+          "ansvertext": "Erevan",
+          "isCorect":  true
+        },
+        {
+          "ansvertext": "Vanadzor",
+          "isCorect": false
+        },
+        {
+          "ansvertext": "Goris",
+          "isCorect": false
+        }
+      ]
+    },
+    {
+      "question_text": "Rusastani mayraqaxaq",
+      "ansver_options": [
+        {
+
+          "ansvertext": "Moskva",
+          "isCorect": true,
+          "id": 1,
+          "imageCorect": "./Image./1.jpg"
+        },
+        {
+
+          "ansvertext": "Krosnodar",
+          "isCorect":  false,
+          "id": 2,
+          "imageCorect": "./Image/2.jpg"
+        },
+        {
+
+          "ansvertext": "Kahire",
+          "isCorect": false,
+          "id": 3,
+          "imageCorect": "./Image/3.jpg"
+        },
+        {
+
+          "ansvertext": "Deli",
+          "isCorect": false,
+          "id": 4,
+          "imageCorect": "./Image/4.jpg"
+        }
+      ]
+    },
+    {
+      "question_text": "nshvacneric ov e futbolist",
+      "ansver_options": [
+        {
+          "ansvertext": "Galust Sahakyan",
+          "isCorect": false
+        },
+        {
+          "ansvertext": "Messi",
+          "isCorect":  true
+        },
+        {
+          "ansvertext": "Tutanhamon",
+          "isCorect": false
+        },
+        {
+          "ansvertext": "Gago",
+          "isCorect": false
+        }
+      ]
+    },
+    {
+      "question_text": "nshvacneric vorne haykakan uteliq",
+      "ansver_options": [
+        {
+          "ansvertext": "tako",
+          "isCorect": false
+        },
+        {
+          "ansvertext": "borsh",
+          "isCorect":  false
+        },
+        {
+          "ansvertext": "Tolma",
+          "isCorect": true
+        },
+        {
+          "ansvertext": "xinkalli",
+          "isCorect": false
+        }
+      ]
+    }
+  ]
+}
