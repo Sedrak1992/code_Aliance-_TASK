@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/code_Aliance-_TASK/static/css/main.b3546256.chunk.css",
+    "main.js": "/code_Aliance-_TASK/static/js/main.3f77e4ea.chunk.js",
+    "main.js.map": "/code_Aliance-_TASK/static/js/main.3f77e4ea.chunk.js.map",
+    "runtime-main.js": "/code_Aliance-_TASK/static/js/runtime-main.59fa4995.js",
+    "runtime-main.js.map": "/code_Aliance-_TASK/static/js/runtime-main.59fa4995.js.map",
+    "static/js/2.49519c1d.chunk.js": "/code_Aliance-_TASK/static/js/2.49519c1d.chunk.js",
+    "static/js/2.49519c1d.chunk.js.map": "/code_Aliance-_TASK/static/js/2.49519c1d.chunk.js.map",
+    "static/js/3.c5ffd954.chunk.js": "/code_Aliance-_TASK/static/js/3.c5ffd954.chunk.js",
+    "static/js/3.c5ffd954.chunk.js.map": "/code_Aliance-_TASK/static/js/3.c5ffd954.chunk.js.map",
+    "index.html": "/code_Aliance-_TASK/index.html",
+    "static/css/main.b3546256.chunk.css.map": "/code_Aliance-_TASK/static/css/main.b3546256.chunk.css.map",
+    "static/js/2.49519c1d.chunk.js.LICENSE.txt": "/code_Aliance-_TASK/static/js/2.49519c1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59fa4995.js",
+    "static/js/2.49519c1d.chunk.js",
+    "static/css/main.b3546256.chunk.css",
+    "static/js/main.3f77e4ea.chunk.js"
+  ]
+}
